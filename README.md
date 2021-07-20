@@ -11,6 +11,7 @@ Track user's workouts <br />
 - [Contact](#contact) <br />
 ## Installation
 No need to install visit live url <br />
+https://trackthyfitness.herokuapp.com/ <br />
 ## Usage
 Dashboard will show dynamic charts of user's workouts. User will also have the ability to create new routines and add cardio/resistance training. <br />
 ## License
